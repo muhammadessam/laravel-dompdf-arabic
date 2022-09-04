@@ -1,12 +1,12 @@
 {
-    "name": "barryvdh/laravel-dompdf",
-    "description": "A DOMPDF Wrapper for Laravel",
+    "name": "muhammadessam/laravel-dompdf-arabic.git",
+    "description": "A DOMPDF Wrapper for Laravel with arabic language included",
     "license": "MIT",
-    "keywords": ["laravel", "dompdf", "pdf"],
+    "keywords": ["laravel", "dompdf", "pdf", "arabic", "dompdf arabic", "arabic laravel pdf"],
     "authors": [
         {
-            "name": "Barry vd. Heuvel",
-            "email": "barryvdh@gmail.com"
+            "name": "Muhammad Essam",
+            "email": "muhammadessamwork@outlook.com"
         }
     ],
     "require": {
